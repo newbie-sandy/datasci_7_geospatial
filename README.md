@@ -1,9 +1,9 @@
 ### datasci_7_geospatial
 - ### Geocoding (address to coordinate)
 
-  - documentation:
+  ### documentation:
   https://developers.google.com/maps/documentation/geocoding/requests-geocoding
-  - tool: 
+  ### tool: 
   json validation: jsonlint.com
   
 - ### Reverse Geocoding
