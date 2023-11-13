@@ -17,12 +17,7 @@
 - Mapping
    - Folium:
      https://python-visualization.github.io/folium/latest/
-     - terms:
-     Zoom level: the higher the more detailed
-     tileset\n
-     choropleth
-         layer control
     -  explore further: add a pop-up for each state.
-                      divide multi polygons with different colors into different layers.
+                        divide multi polygons with different colors into different layers.
      
      
