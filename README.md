@@ -1,18 +1,19 @@
 ### datasci_7_geospatial
-- tool: 
-  json validation: jsonlint.com
+- Tool: 
+  - json validation:
+    jsonlint.com
   
-- ### Geocoding (address to coordinate)
+-  Geocoding (address to coordinate)
 
-  ### documentation:
+   documentation:
   https://developers.google.com/maps/documentation/geocoding/requests-geocoding
  
-- ### Reverse Geocoding
+-  Reverse Geocoding
 
-  ### documentation:
+   documentation:
   https://developers.google.com/maps/documentation/geocoding/requests-reverse-geocoding
 
   
-- ### Mapping
-   - folium:
+- Mapping
+   - Folium:
      The zoom level is usually expressed as an integer value, and higher values indicate a closer, more detailed view of the map. Conversely, lower values represent a more zoomed-out, broader view.
