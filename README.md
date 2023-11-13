@@ -17,12 +17,12 @@
 - Mapping
    - Folium:
      https://python-visualization.github.io/folium/latest/
-     terms:
+     - terms:
      Zoom level is usually expressed as an integer value, and higher values indicate a closer, more detailed view of the map. Conversely, lower values represent a more zoomed-out, broader view.
-     tileset
-     choropleth
-     layer control
-     explore further: add a pop-up for each state.
+      tileset
+       choropleth
+         layer control
+    -  explore further: add a pop-up for each state.
                       divide multi polygons with different colors into different layers.
      
      
