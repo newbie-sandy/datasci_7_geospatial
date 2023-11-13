@@ -13,3 +13,6 @@
   https://developers.google.com/maps/documentation/geocoding/requests-reverse-geocoding
 
   
+- ### Mapping
+   - folium:
+     The zoom level is usually expressed as an integer value, and higher values indicate a closer, more detailed view of the map. Conversely, lower values represent a more zoomed-out, broader view.
